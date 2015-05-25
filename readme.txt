@@ -1,3 +1,3 @@
 Git is a version control system
 Git is free software
-Git is Push Test
+Git is PushGUI Test
